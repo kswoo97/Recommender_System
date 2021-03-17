@@ -5,9 +5,10 @@
 ### Paper : https://openreview.net/forum?id=ByxxgCEYDS
 ### Source Code : https://github.com/muhanzhang/IGMC
 
-#### Training Procedure : Main_Training_Code.ipynb
-#### Recommendation Generating : Generating_Prediction.ipynb
-#### Codes : 구현 관련 코드들
+#### - Training Procedure : Main_Training_Code.ipynb
+#### - Recommendation Generating : Generating_Prediction.ipynb
+#### - Codes : 구현 관련 코드들
+
 
 2020년에 발표된 IGMC Paper를 기반으로 한 R-GCN Based Inductive Recommender 모델입니다.
 
