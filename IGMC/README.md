@@ -1,6 +1,6 @@
 # Inductive Graph based Matrix Completion
 
-## Yonsei University Applied Statistics Data Science Lab Rec Sys Team 2
+## Recommender System 2 Sunwoo Kim
 
 ### Paper : https://openreview.net/forum?id=ByxxgCEYDS
 ### Source Code : https://github.com/muhanzhang/IGMC
