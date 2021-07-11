@@ -4,3 +4,5 @@
 ### Data : https://arena.kakao.com/c/8
 
 Auto-encoder based recommender system on melon playlist data (music recommendation)
+
+https://user-images.githubusercontent.com/53509283/125184157-62590c80-e256-11eb-9559-47eb99eca5f0.mp4
